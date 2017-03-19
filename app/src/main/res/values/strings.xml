@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Udacity-Practice-1</string>
+    <string name="app_name_birthdaycard">Udacity-Practice-1</string>
+    <string name="app_name_business">Software Development</string>
+    <string name="heading_subheading1">You order. I deliver.</string>
+    <string name="heading_subheading2">Around the world.</string>
+    <string name="contact_link_email">simon.koenigx@gmail.com</string>
+    <string name="contact_string_email">Email: \u00A0</string>
+    <string name="contact_link_linkedin">http://linkedin.me/simonvanendern</string>
+    <string name="contact_string_linkedin">LI: \u00A0</string>
 </resources>
